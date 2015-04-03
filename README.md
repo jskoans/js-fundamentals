@@ -1,3 +1,7 @@
+# js-fundamentals
+
+JavaScript fundamentals
+
 # Notes
 
 `const` does not work with strict mode in nodejs at the moment.
