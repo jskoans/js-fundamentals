@@ -1,0 +1,11 @@
+{
+  "libs": [
+    "browser"
+  ],
+  "loadEagerly": [
+    "node_modules/ramda/*.js"
+  ],
+  "plugins": {
+    "node": {}
+  }
+}
