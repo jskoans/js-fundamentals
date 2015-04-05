@@ -1,0 +1,25 @@
+{
+  "session_name": "2-pane-vertical",
+  "windows": [
+    {
+      "window_name": "JS IDE",
+      "layout": "5eac,201x47,0,0{135x47,0,0,1,65x47,136,0,2}",
+      "panes": [
+        {
+          "shell_command": [
+            "vim"
+          ],
+          "focus": true
+        },
+        {
+          "shell_command": [
+            "node"
+          ],
+          "options": {
+            "main-pane-width": 1
+          }
+        }
+      ]
+    }
+  ]
+}
